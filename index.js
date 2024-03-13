@@ -105,4 +105,4 @@ const searchData = () => {
   }
 };
 
-var coll = document.getElementsByClassName("collapsible1");
+// var coll = document.getElementsByClassName("collapsible1");
